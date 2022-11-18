@@ -13,6 +13,8 @@ body{
     flex-direction: column;
     justify-content: center;
     min-height: 100vh;
+     font-family: 'Manrope', sans-serif;
+    background-color:  hsl(210, 46%, 95%);
 }
 
 #container{
